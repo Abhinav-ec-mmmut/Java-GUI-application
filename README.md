@@ -2,7 +2,7 @@
 What i learned after completing this project:
 
 1. implenting Swing package for GUI generation that i learnt while studying JAVA.
-2. connecting MYSQL database with an application.
+2. connecting MYSQL database with a JAVA application.
 3. using GUI for firing queries from the application into the database.
 
 This was a personal project of mine that I made in the second year of my undergraduate degree course from Madan Mohan Malaviya University of Technology, in december 2019.
